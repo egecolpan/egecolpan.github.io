@@ -3,7 +3,7 @@ layout: post
 title:  "Sessiz Otoritenin Yükselişi"
 author: ege
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/Görsel.png
 tags: [sticky]
 ---
 

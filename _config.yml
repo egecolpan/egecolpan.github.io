@@ -20,8 +20,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Ege Çolpan
+    ege:
+      name:           Ege
       site:           egecolpan.com
       avatar:         /assets/images/avatar1.jpg
       bio:            "Merhaba! Ben Ege"

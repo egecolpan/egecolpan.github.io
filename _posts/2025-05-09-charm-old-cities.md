@@ -2,7 +2,7 @@
 layout: post
 title:  "Sessiz Otoritenin Yükselişi"
 author: ege
-categories: [ Jekyll, tutorial ]
+categories: [ Felsefe, Yapay Zeka, Sosyoloji ]
 image: assets/images/Görsel.png
 tags: [sticky]
 ---

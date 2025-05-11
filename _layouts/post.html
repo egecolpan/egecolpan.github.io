@@ -106,7 +106,8 @@ layout: default
             
             
              <!-- Author Box -->
-                {% if page.author %}				
+                {% if page.author %}
+			{% assign author = site.data.authors[page.author] %}
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
                          {% if author.avatar %}

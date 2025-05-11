@@ -23,7 +23,7 @@ authors:
     ege:
       name:           Ege
       site:           egecolpan.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/pp.jpg
       bio:            "Merhaba! Ben Ege"
       email:          mehmetegecolpan@gmail.com
       twitter:        https://x.com/colpanege
@@ -36,8 +36,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: ege
+      avatar: /assets/images/pp.jpg
       
   # all pages
   - scope:

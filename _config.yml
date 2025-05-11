@@ -2,7 +2,7 @@
 name: 'egecolpan.com'
 description: 'Ege Çolpan’ın kişisel blogu: yapay zekâ, lojistik ve düşünce yazıları'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favico.ico'
 baseurl: ''
 url: 'https://egecolpan.github.io'
 disqus: 'demowebsite'

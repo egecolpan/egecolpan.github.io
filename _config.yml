@@ -37,7 +37,6 @@ defaults:
     values:
       layout: post
       author: ege
-      avatar: /assets/images/pp.jpg
       
   # all pages
   - scope:

@@ -30,8 +30,6 @@ tags:
   - adalet
 ---
 
-Roma Cumhuriyeti: Ortak Aklın Devleti
-
 Roma Cumhuriyeti yalnızca bir yönetim biçimi değil; aynı zamanda bir düşünme tarzı, bir yaşam düzeni ve ortak akla dayanan bir siyasal ideali temsil ediyordu. Bu ideal, halkın kaderinin hanedanların elinde değil; yurttaşların ortak iradesi ve kurumların dengeli işleyişiyle belirlendiği bir devlet anlayışına dayanıyordu. Oysa bu yönetim biçimi, Roma'nın tarihinde en başından beri var olan bir sistem değildi. Roma başlangıçta bir krallıktı ve bu yönetim biçimi uzun yıllar boyunca sürdü. Ancak krallıktan cumhuriyete geçiş, yalnızca siyasal bir değişim değil; aynı zamanda derin bir ahlaki sarsıntının, bir trajedinin ve bir kadının onurunda yankılanan bir adalet çığlığının sonucuydu. Tarih boyunca birçok örnekte olduğu gibi, bireysel bir trajedinin halkın vicdanında karşılık bulup kolektif öfkeye dönüştüğü bu siyasal kırılma; Roma Cumhuriyeti’nin toplumsal duyarlılığını şekillendirmiş ve yeni bir toplum sözleşmesinin zeminini hazırlamıştır.
 
 Bir Kadının Ölümü, Bir Halkın Uyanışı

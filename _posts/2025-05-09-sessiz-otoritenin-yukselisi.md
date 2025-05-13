@@ -5,6 +5,7 @@ author: ege
 categories: [ Felsefe, Yapay Zeka, Sosyoloji, Lojistik ]
 image: assets/images/Görsel.png
 tags: [yapay zekâ, algoritmik otorite, veri toplumu, lojistik teknolojileri, etik ve teknoloji, insan iradesi, optimizasyon eleştirisi, teknopol, karar alma süreçleri, dijital iktidar, sorgulama kültürü]
+featured: true
 ---
 
 Yapay zekanın geçmişi ve gelişimi çoğu zaman “zekanın evrimi” gibi sunulur. Oysa yapay zekâ dediğimiz olgu sunulduğundan çok daha farklı bir şekilde gelişmiştir. 1642’de Blaise Pascal’ın mekanik hesap makinesiyle başlayan süreç, 1837’de Ada Lovelace  ve Charles Babbage’ın programlanabilir makine hayaline; 1943’te McCulloch ve Pitts’in nöral ağ temellerine; ardından 1950’de Alan Turing’in meşhur testiyle makinenin düşünebilirliğine dair ilk kuramsal adımlara uzanır. İlk kez 1955’te “yapay zekâ” adını alan bu olgu, bugün üniversite derslerinden sürücüsüz araçlara, bütün bir lojistik sektörünün yeniden doğuşuna kadar hayatın her alanında görünüyor. Fakat bu devasa ilerlemeye rağmen, bu teknolojiler sanılanın aksine insan gibi “düşünen” değil, istatistiksel örüntüler üzerinden karar veren sistemlerdir. Öyle ki zekâdan çok, hesap gücünün tarihidir bu ve tam da bu noktada şu soruyu sormak gerekir: 
